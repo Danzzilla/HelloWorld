@@ -2,6 +2,8 @@
 
 First program written in java from my knowledge
 
+* This program was originally created on 9/23/2020
+
 ## What I have learned
 * JGrasp IDE (Used before Eclipse, began using eclipse to upload projects)
 * learned a little bit about Java projects in eclipse
